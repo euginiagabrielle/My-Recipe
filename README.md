@@ -9,13 +9,13 @@ Fitur:
 - Hive storage: menyimpan data user di localstorage agar user tidak perlu login ulang saat membuka aplikasi.
 
 Langkah install dan build:
-1. Clone repositori 
+1. Clone repositori: 
 git clone https://github.com/euginiagabrielle/My-Recipe
-2. Masuk ke folder proyek
+2. Masuk ke folder proyek: 
 cd My-Recipe
 3. Install dependencies:
 flutter pub get
-4. Run aplikasi
+4. Run aplikasi: 
 flutter run
 
 Teknologi yang digunakan:
